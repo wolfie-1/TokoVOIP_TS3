@@ -1,6 +1,6 @@
 module.exports = {
   //-- [REQUIRED] IPv4 Address of your teamspeak 3 server
-  TSServer: "127.0.0.1",
+  TSServer: "51.195.62.55",
 
   //-- [REQUIRED] Port of the ws_server
   //-- Make sure you open the port you specify below
